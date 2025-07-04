@@ -40,4 +40,4 @@ Shows the current weather and a 5-day forecast after searching for a city.
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://tharuniporeddy.github.io/weather-dashboard/)
+👉 [View Live Project](https://tharuniporeddy.github.io/Weather-Dashboard/)
