@@ -38,6 +38,6 @@ Shows the current weather and a 5-day forecast after searching for a city.
 
 ---
 
-## 📁 How to Run Locally
+## 🔗 Live Demo
 
-1. Clone the repository:
+👉 [View Live Project](https://tharuniporeddy.github.io/weather-dashboard/)
