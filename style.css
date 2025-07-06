@@ -37,11 +37,11 @@ body {
   border-bottom: 1px solid gray;
 }
 
-.or-divider:not(:empty)::before {
+.or-divider::before {
   margin-right: 0.5em;
 }
 
-.or-divider:not(:empty)::after {
+.or-divider::after {
   margin-left: 0.5em;
 }
 
